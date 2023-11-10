@@ -26,3 +26,10 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.coolbooter.coolbooter-1.6-release
+Name: Coolbooter
+Section: Tweaks
+Depends: firmware (<4.0)
+Description: Coolbooter!
+Depiction: https://username.github.io/repo/depictions/?p=com.coolbooter.coolbooter-1.6-release
+

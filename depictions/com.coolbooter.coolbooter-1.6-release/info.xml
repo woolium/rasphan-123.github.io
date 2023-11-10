@@ -1,0 +1,24 @@
+<package>
+    <id>com.coolbooter.coolbooter-1.6-release</id>
+    <name>CoolBooter/name>
+    <version>1.6</version>
+    <compatibility>
+        <firmware>
+            <miniOS>5.0</miniOS>
+            <maxiOS>10.0</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Just Coolbooter.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>
