@@ -1,0 +1,8 @@
+Origin: Woolium's Presonal Repo
+Label: Woolium's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: a repo made by https://youtube.com/@woolium
